@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1421312930 source:d:\algorithms\crypto\aes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1422266860 
+
+1421421483 source:d:\liskovsky_work\code\aes crypt (our c)\v. 0.7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+
+1421670210 source:d:\liskovsky_work\code\aes crypt (our c)\v. 2.0 (aes-128 enc+decrypt)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+
+1421680456 source:d:\liskovsky_work\code\aes crypt (our c)\v. 2.1 (aes-128 enc+decrypt)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+	<stdbool.h>
+
+1421680456 >
+
+1421750676 source:d:\liskovsky_work\code\aes crypt (our c)\v. 2.2 (aes-128 enc+decrypt)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+
+1421786616 source:d:\liskovsky_work\code\aes crypt (our c)\v. 2.2.1 (aes-128 enc+decrypt)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+
+1421854236 source:d:\liskovsky_work\code\aes crypt (our c)\v. 3.0 (aes-256 enc+decrypt)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+
+1422266860 source:d:\liskovsky_work\code\aes crypt (our c)\v. 3.1 (aes-256 enc+decrypt)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+
+1423395084 source:g:\liskovsky_work\code\aes crypt (our c)\v. 3.2 (aes-256 enc+decrypt)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+	<time.h>
+
+1423014930 source:/home/pi/FILES/LISKOVSKY_WORK/CODE/AES Crypt (Our C)/v. 3.2 (AES-256 Enc+Decrypt)/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+	<time.h>
+
+1423007730 source:h:\liskovsky_work\code\aes crypt (our c)\v. 3.2 (aes-256 enc+decrypt)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+	<time.h>
+
